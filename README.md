@@ -130,4 +130,4 @@ Se atentar a condições de corrida no código, o OpenMP fornece diretivas e tam
 | Loop Duplo | 1000 | 1.51 |  10000 | 122.18 |
 | Loop Duplo Paralelo | 1000 | 0.31 | 10000 | 32.22 |
 
-**Repositório com código dos testes:** <https://github.com/italonicacio/como-paralelizar-seu-codigo-c-cpp-com-openmp>
+**Repositório com o código dos testes:** <https://github.com/italonicacio/como-paralelizar-seu-codigo-c-cpp-com-openmp/tree/main/project>
